@@ -88,6 +88,7 @@ body {
     width: 1000px;
     min-width: 1000px;
     margin: 0 auto;
+    display: block;
 }
 
 .el-menu {
